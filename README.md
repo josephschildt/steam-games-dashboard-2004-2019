@@ -4,6 +4,8 @@ An interactive data visualization dashboard exploring trends in Steam games from
 This project analyzes release volume, pricing behavior, genre composition, and player review patterns using Python and Altair.
 
 ## Dashboard Preview
+<img width="1372" height="1276" alt="visualization (3)" src="https://github.com/user-attachments/assets/ad42ee29-884e-49eb-8507-053c460c8936" />
+
 
 After running the project, open the generated dashboard here:
 
